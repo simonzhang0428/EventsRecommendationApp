@@ -2,12 +2,14 @@
   <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../project/java-json.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../project/java-json.jar!/" />
     </SOURCES>
   </library>
 </component>
